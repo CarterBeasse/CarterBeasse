@@ -19,8 +19,4 @@ CST student at John Abbott College, Montreal. C#, Python, TypeScript. Building t
 <a href="https://www.github.com/CarterBeasse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CarterBeasse?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CarterBeasse"><img src="https://github-readme-stats.vercel.app/api?username=CarterBeasse&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" alt="CarterBeasse's GitHub stats" /></a>
-
-<a href="https://github.com/CarterBeasse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterBeasse&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" /></a>
